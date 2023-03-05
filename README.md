@@ -45,6 +45,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 This project was inspired by the [SonnySangha](https://www.youtube.com/@SonnySangha) YouTube channel, which provided a [tutorial](https://youtu.be/tbvguOj8C-o) on how to build a LinkedIn clone using Firebase and React-Redux. The tutorial was followed closely to build the application, with some modifications made to suit the specific requirements of this project.
 
+## live demo site that i have made
+
+[https://linked-in-clone-6be25.web.app](https://linked-in-clone-6be25.web.app)
+
 
 
 
